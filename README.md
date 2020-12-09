@@ -9,4 +9,5 @@ One thing to note, in order to get the program to work, I had to go into
 \Lib\site-packages\basketball_reference_scraper\teams 
 
 and delete the line 
+
 :df['NATIONALITY'] = df['NATIONALITY'].apply(lambda x: x.upper())
