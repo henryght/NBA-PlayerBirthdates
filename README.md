@@ -1,5 +1,5 @@
 # NBA-PlayerBirthdates
-This python program looks through NBA final end dates and the winning roster player's birthday. It compares the month and date to see if a player has won an NBA championship on their birthday.
+This python program looks through NBA final end dates and the winning roster player's birthday. It compares the month and date to see if a player has won an NBA championship on their birthday. The years are 1958-2020, due to the roster data containing none from years < 1958. 
 
 Used this scraper tool to look through basketball references : 
 https://github.com/vishaalagartha/basketball_reference_scraper/blob/master/API.md
