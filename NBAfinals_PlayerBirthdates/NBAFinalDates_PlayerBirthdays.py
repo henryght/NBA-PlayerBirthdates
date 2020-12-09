@@ -4,7 +4,6 @@ import pandas as pd
 import xlrd
 import re
 
-# This is the dictionary for teams and year
 # BR = basketball reference data
 # EX = excel document data
 
